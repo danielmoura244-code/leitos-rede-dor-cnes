@@ -1,0 +1,5 @@
+# arquivos brutos baixados (refeitos pelos scripts)
+dados/brutos/
+.Rhistory
+.RData
+.Rproj.user/

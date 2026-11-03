@@ -1,0 +1,21 @@
+id,hospital,uf,cod_municipio,municipio,data_anuncio,fonte,observacao
+1,Hospital Santa Cruz,PR,410690,Curitiba,2019-12-09,imprensa (Bem Paraná; Revista Apólice),conclusão em FR CVM 05/06/2020
+2,Hospital Aliança (80%),BA,292740,Salvador,2020-02-14,FR CVM 17/02/2020,contrato assinado em 14/02/2020; conclusão FR 01/07/2020
+3,Hospital Balbino,RJ,330455,Rio de Janeiro,2020-05-29,imprensa (Suno),"data aproximada: ""final de maio"" de 2020 — conferir"
+4,Hospital Central de Guaianases,SP,355030,São Paulo,2020-11-10,imprensa (Seu Dinheiro / IstoÉ Dinheiro),memorando + protocolo no CADE
+5,Hospital Cárdio Pulmonar,BA,292740,Salvador,2020-11-10,imprensa (Seu Dinheiro / IstoÉ Dinheiro),Rede D'Or já tinha ~48%; compra dos 100%
+6,Hospital América,SP,352940,Mauá,2020-11-19,imprensa (DGABC),
+7,Hospital de Clínicas Antônio Afonso,SP,352440,Jacareí,2020-12-02,imprensa (Seu Dinheiro),
+8,Biocor Instituto (51%),MG,310620,Belo Horizonte,2021-04-05,FR CVM 05/04/2021,CNES 2695634 registrado em Belo Horizonte (fica na divisa com Nova Lima)
+9,Hospital Nossa Senhora das Neves,PB,250750,João Pessoa,2021-04-09,FR CVM 09/04/2021,
+10,Hospital Serra Mayor,SP,355030,São Paulo,2021-06-01,FR CVM 01/06/2021,zona sul/sudoeste de SP
+11,Hospital Proncor (51%),MS,500270,Campo Grande,2021-07-08,FR CVM 08/07/2021,
+12,Hospital Santa Emília,BA,291080,Feira de Santana,2021-07-28,FR CVM 28/07/2021,
+13,Hospital Aliança (20% restantes),BA,292740,Salvador,2021-08-20,FR CVM 20/08/2021,Rede D'Or já controlava (ver id 2) — não muda o HHI
+14,Hospital Novo Atibaia (90%),SP,350410,Atibaia,2021-09-15,FR CVM 15/09/2021,
+15,Hospital Aeroporto,BA,291920,Lauro de Freitas,2021-10-05,FR CVM 05/10/2021,
+16,Hospital Santa Isabel,SP,355030,São Paulo,2021-10-27,FR CVM 27/10/2021,comprado da Santa Casa de SP
+17,Hospital Arthur Ramos,AL,270430,Maceió,2021-11-03,FR CVM 03/11/2021,
+18,Hospital Santa Marina,MS,500270,Campo Grande,2022-01-06,imprensa (Bloomberg Línea),
+19,Atlântica D'Or Campinas,SP,350950,Campinas,2024-11-01,FR CVM 01/11/2024,joint venture com Bradesco (Atlântica) — não é compra simples; conferir
+20,Atlântica D'Or Glória,RJ,330455,Rio de Janeiro,2025-09-01,FR CVM 01/09/2025,joint venture com Bradesco (Atlântica) — não é compra simples; conferir
